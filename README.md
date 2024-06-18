@@ -38,8 +38,7 @@ aligned submit \
 #
 
 > Save the output link
->
-> ![Screenshot_1](https://github.com/0xmoei/alignedlayer-testnet/assets/90371338/fecc9c64-8332-4cc7-a29d-5e0f5d1093e1)
+
 
 #
 
@@ -50,7 +49,8 @@ aligned verify-proof-onchain \
 --rpc https://ethereum-holesky-rpc.publicnode.com \
 --chain holesky
 ```
-![Screenshot_1](https://github.com/0xmoei/alignedlayer-testnet/assets/90371338/42d31743-b464-45c5-a02e-aed31f6dbd75)
+![verify proof](https://github.com/5oroo5h/alignedlayer-testnet/assets/124317301/82692850-9419-4fff-96e1-374059e212b2)
+
 
 
 > Now post your submit-proof screenshot + output link in Twitter and tag @alignedlayer + #aligned ✅
